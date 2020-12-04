@@ -1,1 +1,1 @@
-# JavaScript-Pig-Game
+It's the fundamental of javascript, a creation of a game that does pretty much nothing more than rolling a dice and adding score until there comes an one.Then after considering higher score it declares a winner.
